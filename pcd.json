@@ -1,0 +1,28 @@
+{
+  "name": "profilarr-ua-guides",
+  "version": "1.0.0",
+  "description": "Radarr and Sonarr profiles for setups that pull from Ukrainian trackers",
+  "arr_types": [
+    "radarr",
+    "sonarr"
+  ],
+  "dependencies": {
+    "https://github.com/Dictionarry-Hub/schema": "1.1.0"
+  },
+  "authors": [
+    {
+      "name": "Slonick"
+    }
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/Slonick/profilarr-ua-guides",
+  "tags": [
+    "ukrainian",
+    "radarr",
+    "sonarr",
+    "profiles"
+  ],
+  "profilarr": {
+    "minimum_version": "2.0.0"
+  }
+}
